@@ -1,2 +1,2 @@
 # clone-tbnws
-Cone do tabnews para o curso dev.com
+Clone do tabnews para o curso dev.com
